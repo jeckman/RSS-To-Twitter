@@ -1,4 +1,6 @@
-RSS to Twitter is a script by Paul Stamatiou – see http://paulstamatiou.com/2007/01/26/stammy-script-rss-to-twitter-using-php. 
+RSS to Twitter is a script by Paul Stamatiou 
+
+See http://paulstamatiou.com/2007/01/26/stammy-script-rss-to-twitter-using-php. 
 
 Paul's script itself relies on Last RSS. (http://lastrss.oslab.net/)
 

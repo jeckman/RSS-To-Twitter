@@ -48,7 +48,8 @@ class lastRSS {
     var $items_limit = 1;
     var $stripHTML = False;
     var $date_format = '';
-
+	var $cache_file = 'temp';
+	
     // -------------------------------------------------------------------
     // Private variables
     // -------------------------------------------------------------------
